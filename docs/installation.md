@@ -9,7 +9,7 @@
 
 ## ダウンロード方法
 
-1. [リリースページ](https://github.com/あなたのユーザー名/ClipboardToDrawIO/releases) にアクセス
+1. [リリースページ](https://github.com/Slevin06/ClipboardToDrawIO/releases) にアクセス
 2. 最新バージョンの `ClipboardToDrawIO.zip` をクリック
 3. ZIPファイルをダウンロード
 

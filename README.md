@@ -12,7 +12,7 @@
 
 ## インストール方法
 
-1. [リリースページ](https://github.com/あなたのユーザー名/ClipboardToDrawIO/releases) から最新版の `ClipboardToDrawIO.zip` をダウンロード
+1. [リリースページ](https://github.com/Slevin06/ClipboardToDrawIO/releases)から最新版の `ClipboardToDrawIO.zip` をダウンロード
 2. ダウンロードしたZIPファイルを展開
 3. `ClipboardToDrawIO.app` をアプリケーションフォルダに移動（任意）
 
